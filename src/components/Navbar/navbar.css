@@ -1,0 +1,18 @@
+
+h1 {
+	position: relative;
+	left: 25%;
+	text-align: center;
+	text-shadow: 2px 2px red;
+}
+.navbar-brand {
+	background-color: rgb(99, 180, 218);
+	border: 2px solid black;
+	border-radius: 10px;
+}
+.bold{
+	font-weight: bold;
+}
+.bg-light {
+	background-color: steelblue!important;
+}

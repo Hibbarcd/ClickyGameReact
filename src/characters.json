@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "./images/Fry.png"
+    },
+    {
+      "id": 2,
+      "image": "./images/Turanga_Leela.png"
+      },
+      {
+      "id": 3,
+      "image": "./images/professor.png"
+      },
+      {
+      "id": 4,
+      "image": "./images/amy.png"
+      },
+      {
+      "id": 5,
+      "image": "./images/zoidberg.png"
+      },
+      {
+      "id": 6,
+      "image": "./images/scruffy.jpg"
+      },
+      {
+      "id": 7,
+      "image": "./images/zapp.png"
+      },
+      {
+      "id": 8,
+      "image": "./images/hermes.png"
+      },
+      {
+      "id": 9,
+      "image": "./images/bender.png"
+      },
+      {
+      "id": 10,
+      "image": "./images/RobotDevil.png"
+      },
+      {
+      "id": 11,
+      "image": "./images/elzar.png"
+      },
+      {
+      "id": 12,
+      "image": "./images/calculon.png"
+      }
+  ]
