@@ -2,16 +2,15 @@
     width: 100px;
     height: 120px;
     position: relative;
-    left: 20%;
     bottom: 5%;
 }
 .card {
-    width: 110px;
+    width: 120px;
     height: 125px;
     background-color: rgb(131, 161, 155);
     border: 2px solid black;
 }
 .wrapper {
     background-image: url("./background.jpg");
-    background-size: 90%;
+    background-size: 100%;
 }
