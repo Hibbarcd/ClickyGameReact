@@ -1,12 +1,13 @@
+body {
+    background-color: rgb(30, 102, 195);
+  }
 .card-img-top {
-    width: 100px;
-    height: 120px;
+    width: 30px;
+    height: 50px;
     position: relative;
     bottom: 5%;
 }
 .card {
-    width: 120px;
-    height: 125px;
     background-color: rgb(131, 161, 155);
     border: 2px solid black;
 }
@@ -14,3 +15,17 @@
     background-image: url("./background.jpg");
     background-size: 100%;
 }
+@media screen and (max-width: 560px) {
+    body {
+      background-color: olive;
+    }
+    .card-img-top {
+        height: 40px;
+        width: 40px;
+    }
+    .card {
+        position: relative;
+        width: 20%;
+        height: 70px;
+    }
+  }
